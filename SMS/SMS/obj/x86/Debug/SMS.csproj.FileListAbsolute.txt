@@ -1,0 +1,17 @@
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\bin\Debug\SMS.exe
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\bin\Debug\SMS.pdb
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\obj\x86\Debug\SMS.Form1.resources
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\obj\x86\Debug\SMS.Properties.Resources.resources
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\obj\x86\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\obj\x86\Debug\SMS.exe
+C:\Users\Mayu\AppData\Local\Temporary Projects\SMS\obj\x86\Debug\SMS.pdb
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.exe
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.pdb
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.Form1.resources
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.Properties.Resources.resources
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.Register.resources
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.csproj.GenerateResource.Cache
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.csprojResolveAssemblyReference.cache
+C:\Users\Mayu\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.main.resources
